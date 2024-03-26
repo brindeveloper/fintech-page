@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fintech-page/static/css/main.af391a08.css",
+    "main.js": "/fintech-page/static/js/main.9f326e4e.js",
+    "static/media/laptop.jpg": "/fintech-page/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/fintech-page/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/fintech-page/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/fintech-page/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/fintech-page/index.html",
+    "main.af391a08.css.map": "/fintech-page/static/css/main.af391a08.css.map",
+    "main.9f326e4e.js.map": "/fintech-page/static/js/main.9f326e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af391a08.css",
+    "static/js/main.9f326e4e.js"
+  ]
+}
